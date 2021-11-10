@@ -1,0 +1,28 @@
+= Insight
+
+image:https://img.shields.io/badge/vert.x-4.2.0-purple.svg[link="https://vertx.io"]
+
+This application was generated using http://start.vertx.io
+
+technologies i used vertx react rxjava gradle
+
+also please use compose for installing mysql on docker
+
+```
+docker compose up
+```
+== Building
+
+
+
+To package your application:
+```
+./gradlew clean assemble
+```
+
+To run your application:
+```
+./gradlew clean run
+```
+
+
