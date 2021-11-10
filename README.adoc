@@ -4,6 +4,8 @@ image:https://img.shields.io/badge/vert.x-4.2.0-purple.svg[link="https://vertx.i
 
 This application was generated using http://start.vertx.io
 
+as build tools i used gradle version 7 and java version 16 so becareful with that
+
 technologies i used vertx react rxjava gradle
 
 also please use compose for installing mysql on docker
